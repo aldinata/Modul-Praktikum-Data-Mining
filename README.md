@@ -1,18 +1,8 @@
 # Praktikum Data Mining
 
-> [!NOTE]
+> [!INFO]
 > Program Studi Rekayasa Kecerdasan Aritifisial<br />
 > Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember (ITS)
-
-> [!IMPORTANT]
-> <sup> Dosen         : Aldinata Rizky Revanda, S.Kom., M.Kom. </sup> <br />
-> <sup>Lab Praktikum  : Ruangan IF-108 </sup> <br />
-> <sup>Hari, Jam      : Rabu, Jam 13.00 - 14.50 WIB </sup>
-
-> [!TIP]
-> <sup> Referensi: [buku](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf), [source code](https://github.com/aimacode/aima-python), [aima-berkeley](https://aima.cs.berkeley.edu/) </sup> <br />
-> <sup> Email: aldinata.rizky@its.ac.id</sup><br />
-> <sup> Room: IF-208</sup>
 
 
 ## Konten Praktikum:
