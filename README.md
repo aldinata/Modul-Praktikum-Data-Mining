@@ -1,11 +1,15 @@
 # Praktikum Data Mining
 
 > [!NOTE]
-> Program Studi Rekayasa Kecerdasan Aritifisial<br />
-> Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember (ITS)
-> Mata Kuliah Data Mining (Semester 3)
-> Capaian Pembelajaran Mata Kuliah (CPMK):
-> > Mahasiswa mampu menjelaskan tahapan data mining, karakteristik data, eksplorasi data, dan praproses data serta penerapannya pada suatu permasalahan.
+> Program Studi Rekayasa Kecerdasan Aritifisial <br />
+> Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember (ITS) <br />
+> Mata Kuliah Data Mining (Semester 3) <br />
+> Capaian Pembelajaran Mata Kuliah (CPMK): <br />
+> - Mahasiswa mampu menjelaskan tahapan data mining, karakteristik data, eksplorasi data, dan praproses data serta penerapannya pada suatu permasalahan.
+> - Mahasiswa mampu menjelaskan teknik penanganan class imbalance problem dan metode klasifikasi ensemble serta penggunaannya pada permasalahan klasifikasi.
+> - Mahasiswa mampu menjelaskan teknik association rule, sequential pattern analysis, serta penggunaanya pada suatu permasalahan.
+> - Mahasiswa mampu menjelaskan metode clustering dan penggunaannya pada suatu permasalahan.
+> - Mahasiswa mampu menjelaskan konsep dan teknik deteksi anomali serta penggunaanya pada data anomali.
 
 
 ## Konten Praktikum:
