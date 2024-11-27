@@ -1,6 +1,6 @@
 # Praktikum Data Mining
 
-> [!INFO]
+> [!NOTE]
 > Program Studi Rekayasa Kecerdasan Aritifisial<br />
 > Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember (ITS)
 
