@@ -3,7 +3,7 @@
 > Program Studi Rekayasa Kecerdasan Aritifisial <br />
 > Deptartemen Teknik Informatika <br />
 > Insitut Teknologi Sepuluh Nopember (ITS) <br /> <br />
-> Mata Kuliah Data Mining (Semester 3) <br />
+> Mata Kuliah Data Mining (Semester 3 - 4 SKS) <br />
 > Capaian Pembelajaran Mata Kuliah (CPMK): <br />
 > - Mahasiswa mampu menjelaskan tahapan data mining, karakteristik data, eksplorasi data, dan praproses data serta penerapannya pada suatu permasalahan.
 > - Mahasiswa mampu menjelaskan teknik penanganan class imbalance problem dan metode klasifikasi ensemble serta penggunaannya pada permasalahan klasifikasi.
@@ -17,7 +17,7 @@
 > - Python, NumPy, Matplotlib, Pandas, Scikit-Learn, and SciPy
 > - Google Colab
 > - Jupyter Notebook
-> * [`Panduan Instalasi`](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/0%20-%20Panduan%20Instalasi.pdf)
+> * [Panduan Instalasi](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/0%20-%20Panduan%20Instalasi.pdf)
 
 ### 1. Eksplorasi Data <sub><sup>[_minggu #1 - #2_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
@@ -50,3 +50,5 @@
 ### 8. Deteksi Anomali <sub><sup>[_minggu #15 - #16_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
 * [Tugas Eksplorasi Data]() :mortar_board:
+
+[💌Survei]()
