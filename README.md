@@ -1,5 +1,4 @@
 # Praktikum Data Mining
-
 > [!NOTE]
 > Program Studi Rekayasa Kecerdasan Aritifisial <br />
 > Deptartemen Teknik Informatika <br />
@@ -12,20 +11,17 @@
 > - Mahasiswa mampu menjelaskan metode clustering dan penggunaannya pada suatu permasalahan.
 > - Mahasiswa mampu menjelaskan konsep dan teknik deteksi anomali serta penggunaanya pada data anomali.
 
-
 ## Konten Praktikum:
 > [!IMPORTANT]
 > Install tools berikut sebelum praktikum:
-> > Python, NumPy, Matplotlib, Pandas, Scikit-Learn, and SciPy
-> > Google Colab
-> > Jupyter Notebook
-> * [`Panduan Instalasi`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
+> - Python, NumPy, Matplotlib, Pandas, Scikit-Learn, and SciPy
+> - Google Colab
+> - Jupyter Notebook
+> * [`Panduan Instalasi`](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/0%20-%20Panduan%20Instalasi.pdf)
+
 ### 1. Eksplorasi Data <sub><sup>[_minggu #1 - #2_]</sup></sub> <br />
-Bab 1
-* [Python, numpy, matplotlib, pandas, seklearn, and scipy](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
-* [Jupyter Notebook](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
-* [Google Colab](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
-* [`Tugas I`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf) :mortar_board:
+* [Latihan Eksplorasi Data]()
+* [Tugas Eksplorasi Data]()
 
 ### 2. Logic <sub><sup>[_minggu #2 - #4_]</sup></sub><br />
 * [`Panduan Praktikum Logic`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/2%20-%20Logical%20Agents/2%20Panduan%20Praktikum%20Logic.pdf) 
