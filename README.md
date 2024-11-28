@@ -19,7 +19,7 @@
 > - Jupyter Notebook
 
 ### 1. Eksplorasi Data <sub><sup>[_minggu #1 - #2_]</sup></sub> <br />
-* [Latihan Eksplorasi Data]()
+* [Latihan Eksplorasi Data](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/1%20-%20Eksplorasi%20Data.ipynb)
 * [Tugas Eksplorasi Data :mortar_board:]() 
 
 ### 2. Praproses Data <sub><sup>[_minggu #3 - #4_]</sup></sub> <br />
