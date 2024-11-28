@@ -23,7 +23,7 @@
 * [Tugas Eksplorasi Data :mortar_board:]() 
 
 ### 2. Praproses Data <sub><sup>[_minggu #3 - #4_]</sup></sub> <br />
-* [Latihan Eksplorasi Data]()
+* [Latihan Eksplorasi Data](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/2%20-%20Praproses%20Data.ipynb)
 * [Tugas Eksplorasi Data :mortar_board:]()
 
 ### 3. Classification (Ensemble) <sub><sup>[_minggu #5 - #6_]</sup></sub> <br />
