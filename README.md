@@ -50,5 +50,5 @@
 * [Latihan Eksplorasi Data]()
 * [Tugas Eksplorasi Data :mortar_board:]()
 
-
-[:love_letter:Survei]()
+<br />
+> [:love_letter:Survei]()
