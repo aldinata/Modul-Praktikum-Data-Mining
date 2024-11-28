@@ -2,7 +2,8 @@
 
 > [!NOTE]
 > Program Studi Rekayasa Kecerdasan Aritifisial <br />
-> Deptartemen Teknik Informatika, Insitut Teknologi Sepuluh Nopember (ITS) <br />
+> Deptartemen Teknik Informatika <br />
+> Insitut Teknologi Sepuluh Nopember (ITS) <br /> <br />
 > Mata Kuliah Data Mining (Semester 3) <br />
 > Capaian Pembelajaran Mata Kuliah (CPMK): <br />
 > - Mahasiswa mampu menjelaskan tahapan data mining, karakteristik data, eksplorasi data, dan praproses data serta penerapannya pada suatu permasalahan.
@@ -13,8 +14,14 @@
 
 
 ## Konten Praktikum:
-### 1. Pengantar Data Mining <sub><sup>[_minggu #1_]</sup></sub> <br />
-Install tools berikut untuk praktikum:
+> [!IMPORTANT]
+> Install tools berikut sebelum praktikum:
+> > Python, NumPy, Matplotlib, Pandas, Scikit-Learn, and SciPy
+> > Google Colab
+> > Jupyter Notebook
+> * [`Panduan Instalasi`](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
+### 1. Eksplorasi Data <sub><sup>[_minggu #1 - #2_]</sup></sub> <br />
+Bab 1
 * [Python, numpy, matplotlib, pandas, seklearn, and scipy](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
 * [Jupyter Notebook](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
 * [Google Colab](https://github.com/bscpnu/Praktikum-Kecerdasan-Komputasional/blob/main/Praktikum/1%20-%20Pengantar%20Kecerdasan%20Komputasional/1%20Pengantar%20Kecerdasan%20Komputasional.pdf)
