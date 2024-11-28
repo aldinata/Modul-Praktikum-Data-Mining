@@ -17,7 +17,7 @@
 > - Python, NumPy, Matplotlib, Pandas, Scikit-Learn, and SciPy
 > - Google Colab
 > - Jupyter Notebook
-> * [Panduan Instalasi](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/0%20-%20Panduan%20Instalasi.pdf)
+> [`Panduan Instalasi`](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/0%20-%20Panduan%20Instalasi.pdf)
 
 ### 1. Eksplorasi Data <sub><sup>[_minggu #1 - #2_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
