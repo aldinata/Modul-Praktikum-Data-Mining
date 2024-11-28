@@ -51,4 +51,4 @@
 * [Tugas Eksplorasi Data :mortar_board:]()
 
 <br />
-> [:love_letter:Survei]()
+[:love_letter:Survei]()
