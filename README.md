@@ -20,34 +20,35 @@
 
 ### 1. Eksplorasi Data <sub><sup>[_minggu #1 - #2_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data]() :mortar_board:
+* [Tugas Eksplorasi Data :mortar_board:]() 
 
 ### 2. Praproses Data <sub><sup>[_minggu #3 - #4_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data]() :mortar_board:
+* [Tugas Eksplorasi Data :mortar_board:]()
 
 ### 3. Classification (Ensemble) <sub><sup>[_minggu #5 - #6_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data]() :mortar_board:
+* [Tugas Eksplorasi Data :mortar_board:]()
 
 ### 4. Class Imbalance <sub><sup>[_minggu #7 - #8_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data]() :mortar_board:
+* [Tugas Eksplorasi Data :mortar_board:]()
 
 ### 5. Association Rule <sub><sup>[_minggu #9 - #10_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data]() :mortar_board:
+* [Tugas Eksplorasi Data :mortar_board:]()
 
 ### 6. Sequential Pattern Analysis <sub><sup>[_minggu #11 - #12_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data]() :mortar_board:
+* [Tugas Eksplorasi Data :mortar_board:]()
 
 ### 7. Clustering <sub><sup>[_minggu #13 - #14_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data]() :mortar_board:
+* [Tugas Eksplorasi Data :mortar_board:]()
 
 ### 8. Deteksi Anomali <sub><sup>[_minggu #15 - #16_]</sup></sub> <br />
 * [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data]() :mortar_board:
+* [Tugas Eksplorasi Data :mortar_board:]()
 
-[💌Survei]()
+
+[:love_letter:Survei]()
