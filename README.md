@@ -3,7 +3,7 @@
 > Program Studi Rekayasa Kecerdasan Aritifisial <br />
 > Deptartemen Teknik Informatika <br />
 > Insitut Teknologi Sepuluh Nopember (ITS) <br /> <br />
-> Mata Kuliah Data Mining (Semester 3 - 4 SKS) <br />
+> Mata Kuliah Data Mining (Semester 3 | 4 SKS) <br />
 > Capaian Pembelajaran Mata Kuliah (CPMK): <br />
 > - Mahasiswa mampu menjelaskan tahapan data mining, karakteristik data, eksplorasi data, dan praproses data serta penerapannya pada suatu permasalahan.
 > - Mahasiswa mampu menjelaskan teknik penanganan class imbalance problem dan metode klasifikasi ensemble serta penggunaannya pada permasalahan klasifikasi.
