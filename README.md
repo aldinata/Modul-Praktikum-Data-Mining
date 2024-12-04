@@ -19,35 +19,43 @@
 > - Jupyter Notebook
 
 ### 1. Eksplorasi Data <sub><sup>[_minggu #1 - #2_]</sup></sub> <br />
+* [Panduan Praktikum Eksplorasi Data](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/1%20-%20Panduan%20Praktikum%20Eksplorasi%20Data.pdf)
 * [Latihan Eksplorasi Data](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/1%20-%20Eksplorasi%20Data.ipynb)
 * [Tugas Eksplorasi Data :mortar_board:]() 
 
 ### 2. Praproses Data <sub><sup>[_minggu #3 - #4_]</sup></sub> <br />
-* [Latihan Eksplorasi Data](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/2%20-%20Praproses%20Data.ipynb)
-* [Tugas Eksplorasi Data :mortar_board:]()
+* [Panduan Praktikum Praproses Data]()
+* [Latihan Praproses Data](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/2%20-%20Praproses%20Data.ipynb)
+* [Tugas Praproses Data :mortar_board:]()
 
 ### 3. Classification (Ensemble) <sub><sup>[_minggu #5 - #6_]</sup></sub> <br />
-* [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data :mortar_board:]()
+* [Panduan Praktikum Classification (Ensemble)]()
+* [Latihan Classification (Ensemble)]()
+* [Tugas Classification (Ensemble) :mortar_board:]()
 
 ### 4. Class Imbalance <sub><sup>[_minggu #7 - #8_]</sup></sub> <br />
-* [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data :mortar_board:]()
+* [Panduan Praktikum Class Imbalance]()
+* [Latihan Class Imbalance]()
+* [Tugas Class Imbalance :mortar_board:]()
 
 ### 5. Association Rule <sub><sup>[_minggu #9 - #10_]</sup></sub> <br />
-* [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data :mortar_board:]()
+* [Panduan Praktikum Association Rule]()
+* [Latihan Association Rule]()
+* [Tugas Association Rule :mortar_board:]()
 
 ### 6. Sequential Pattern Analysis <sub><sup>[_minggu #11 - #12_]</sup></sub> <br />
-* [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data :mortar_board:]()
+* [Panduan Praktikum Sequential Pattern Analysis]()
+* [Latihan Sequential Pattern Analysis]()
+* [Tugas Sequential Pattern Analysis :mortar_board:]()
 
 ### 7. Clustering <sub><sup>[_minggu #13 - #14_]</sup></sub> <br />
-* [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data :mortar_board:]()
+* [Panduan Praktikum Clustering]()
+* [Latihan Clustering]()
+* [Tugas Clustering :mortar_board:]()
 
 ### 8. Deteksi Anomali <sub><sup>[_minggu #15 - #16_]</sup></sub> <br />
-* [Latihan Eksplorasi Data]()
-* [Tugas Eksplorasi Data :mortar_board:]()
+* [Panduan Praktikum Deteksi Anomali]()
+* [Latihan Deteksi Anomali]()
+* [Tugas Deteksi Anomali :mortar_board:]()
 
 [:love_letter:Survei]()
