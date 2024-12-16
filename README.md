@@ -34,8 +34,8 @@
 * [Tugas Classification (Ensemble) :mortar_board:]()
 
 ### 4. Association Rule <sub><sup>[_minggu #7 - #8_]</sup></sub> <br />
-* [Panduan Praktikum Association Rule](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/3%20-%20Panduan%20Praktikum%20Association%20Rule.pdf)
-* [Latihan Association Rule](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/3%20-%20Association%20Rule.ipynb)
+* [Panduan Praktikum Association Rule](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/4%20-%20Panduan%20Praktikum%20Association%20Rule.pdf)
+* [Latihan Association Rule](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/4%20-%20Association%20Rule.ipynb)
 * [Tugas Association Rule :mortar_board:]()
 
 ### 5. Sequential Pattern Analysis <sub><sup>[_minggu #9 - #10_]</sup></sub> <br />
