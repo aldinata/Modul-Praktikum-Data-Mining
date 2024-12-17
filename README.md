@@ -53,7 +53,7 @@
 * [Latihan Deteksi Anomali](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/7%20-%20Deteksi%20Anomali.ipynb)
 * [Tugas Deteksi Anomali :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/7%20-%20Tugas_Praktikum_Deteksi_Anomali.pdf)
 
-### 8. Final Project <sub><sup>[_minggu #7 - #8_]</sup></sub> <br />
+### 8. Final Project <sub><sup>[_minggu #15 - #16_]</sup></sub> <br />
 * [Panduan Praktikum Final Project](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/8%20-%20Panduan%20Praktikum%20Final%20Project.pdf)
 * [Tugas Final Project :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/8%20-%20Tugas_Final_Project_Data_Mining.pdf)
 
