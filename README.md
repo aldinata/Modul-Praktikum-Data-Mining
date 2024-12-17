@@ -58,5 +58,5 @@
 * [Tugas Final Project :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/8%20-%20Tugas_Final_Project_Data_Mining.pdf)
 
 > [!IMPORTANT]
-> <br />[:love_letter:Survei Kebutuhan Modul Praktikum Data Mining](https://forms.gle/AiLwVLciWjoCPZ8L8)
-> <br />[:love_letter:Survei Evaluasi Modul Praktikum Data Mining](https://forms.gle/mNkHgA4ejtyZs6536)
+> [:love_letter:Survei Kebutuhan Modul Praktikum Data Mining](https://forms.gle/AiLwVLciWjoCPZ8L8) <br />
+> [:love_letter:Survei Evaluasi Modul Praktikum Data Mining](https://forms.gle/mNkHgA4ejtyZs6536)
