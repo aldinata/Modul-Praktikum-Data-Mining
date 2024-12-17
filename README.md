@@ -21,40 +21,40 @@
 ### 1. Eksplorasi Data <sub><sup>[_minggu #1 - #2_]</sup></sub> <br />
 * [Panduan Praktikum Eksplorasi Data](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/1%20-%20Panduan%20Praktikum%20Eksplorasi%20Data.pdf)
 * [Latihan Eksplorasi Data](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/1%20-%20Eksplorasi%20Data.ipynb)
-* [Tugas Eksplorasi Data :mortar_board:]() 
+* [Tugas Eksplorasi Data :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/1%20-%20Tugas_Praktikum_Eksplorasi_Data.pdf) 
 
 ### 2. Praproses Data <sub><sup>[_minggu #3 - #4_]</sup></sub> <br />
 * [Panduan Praktikum Praproses Data](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/2%20-%20Panduan%20Praktikum%20Praproses%20Data.pdf)
 * [Latihan Praproses Data](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/2%20-%20Praproses%20Data.ipynb)
-* [Tugas Praproses Data :mortar_board:]()
+* [Tugas Praproses Data :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/2%20-%20Tugas_Praktikum_Praproses_Data.pdf)
 
 ### 3. Classification (Ensemble Method & Class Imbalance) <sub><sup>[_minggu #5 - #6_]</sup></sub> <br />
 * [Panduan Praktikum Classification (Ensemble Method & Class Imbalance)](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/3%20-%20Panduan%20Praktikum%20Classification%20(Ensemble%20Method%20%26%20Class%20Imbalance).pdf)
 * [Latihan Classification (Ensemble)](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/3%20-%20Classification%20(Ensemble%20Method%20%26%20Class%20Imbalance).ipynb)
-* [Tugas Classification (Ensemble) :mortar_board:]()
+* [Tugas Classification (Ensemble) :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/3%20-%20Tugas_Praktikum_Classification_Ensemble_Class_Imbalance.pdf)
 
 ### 4. Association Rule <sub><sup>[_minggu #7 - #8_]</sup></sub> <br />
 * [Panduan Praktikum Association Rule](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/4%20-%20Panduan%20Praktikum%20Association%20Rule.pdf)
 * [Latihan Association Rule](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/4%20-%20Association%20Rule.ipynb)
-* [Tugas Association Rule :mortar_board:]()
+* [Tugas Association Rule :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/4%20-%20Tugas_Praktikum_Association_Rule.pdf)
 
 ### 5. Sequential Pattern Analysis <sub><sup>[_minggu #9 - #10_]</sup></sub> <br />
 * [Panduan Praktikum Sequential Pattern Analysis](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/5%20-%20Panduan%20Praktikum%20Sequential%20Pattern%20Analysis.pdf)
 * [Latihan Sequential Pattern Analysis](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/5%20-%20Sequential%20Pattern%20Analysis.ipynb)
-* [Tugas Sequential Pattern Analysis :mortar_board:]()
+* [Tugas Sequential Pattern Analysis :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/5%20-%20Tugas_Praktikum_Sequential_Pattern_Analysis.pdf)
 
 ### 6. Clustering (Advance)<sub><sup>[_minggu #11 - #12_]</sup></sub> <br />
 * [Panduan Praktikum Clustering](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/6%20-%20Panduan%20Praktikum%20Clustering%20(Advance).pdf)
 * [Latihan Clustering](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/6%20-%20Clustering%20(Advance).ipynb)
-* [Tugas Clustering :mortar_board:]()
+* [Tugas Clustering :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/6%20-%20Tugas_Praktikum_Clustering_Advanced.pdf)
 
 ### 7. Deteksi Anomali <sub><sup>[_minggu #13 - #14_]</sup></sub> <br />
 * [Panduan Praktikum Deteksi Anomali](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/7%20-%20Panduan%20Praktikum%20Deteksi%20Anomali.pdf)
 * [Latihan Deteksi Anomali](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/7%20-%20Deteksi%20Anomali.ipynb)
-* [Tugas Deteksi Anomali :mortar_board:]()
+* [Tugas Deteksi Anomali :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/7%20-%20Tugas_Praktikum_Deteksi_Anomali.pdf)
 
 ### 8. Final Project <sub><sup>[_minggu #7 - #8_]</sup></sub> <br />
 * [Panduan Praktikum Final Project](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/8%20-%20Panduan%20Praktikum%20Final%20Project.pdf)
-* [Tugas Final Project :mortar_board:]()
+* [Tugas Final Project :mortar_board:](https://github.com/aldinata/Modul-Praktikum-Data-Mining/blob/main/Materi/8%20-%20Tugas_Final_Project_Data_Mining.pdf)
 
 [:love_letter:Survei]()
