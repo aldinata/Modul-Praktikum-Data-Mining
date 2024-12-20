@@ -27,7 +27,7 @@
 > - Etika dalam Pengelolaan Data <br />
 > Mahasiswa diingatkan untuk selalu menjaga etika dalam pengelolaan data, termasuk menghindari penggunaan dataset yang tidak sah, seperti yang diperoleh dari dark web atau sumber ilegal lainnya. Menggunakan dataset ilegal tidak hanya melanggar hukum, tetapi juga bertentangan dengan nilai-nilai moral dan profesionalitas yang kita junjung tinggi. <br />
 > - Tanggung Jawab sebagai Praktisi Data <br />
-> Setiap mahasiswa bertanggung jawab untuk mematuhi peraturan hukum terkait pengelolaan data, termasuk Peraturan Perlindungan Data Pribadi (jika relevan). Sebagai praktisi data di masa depan, diharapkan mahasiswa dapat menjadi teladan dalam mempraktikkan pengolahan data yang bertanggung jawab dan etis. <br />
+> Setiap mahasiswa bertanggung jawab untuk mematuhi peraturan hukum terkait pengelolaan data, termasuk Peraturan Perlindungan Data Pribadi (jika relevan). Sebagai praktisi data di masa depan, diharapkan mahasiswa dapat menjadi teladan dalam mempraktikkan pengolahan data yang bertanggung jawab dan etis. <br /> <br />
 > Dengan mengikuti pedoman ini, kita dapat memastikan bahwa proses pembelajaran tidak hanya meningkatkan kompetensi teknis, tetapi juga mendukung pembentukan karakter profesional yang etis dan bertanggung jawab. <br />
 
 ### 1. Eksplorasi Data <sub><sup>[_minggu #1 - #2_]</sup></sub> <br />
