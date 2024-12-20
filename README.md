@@ -22,11 +22,11 @@
 > [!WARNING]
 > Pernyataan Etika dan Legalitas dalam Data Mining <br />
 > Sebagai mahasiswa dan calon profesional di bidang Teknik Informatika, sangat penting untuk selalu menjaga etika dan integritas dalam setiap proses pengolahan data. Dalam mata kuliah praktikum Data Mining ini, ada beberapa hal yang perlu diperhatikan: <br />
-> - Penggunaan Dataset Berlisensi dan Open Source
+> - Penggunaan Dataset Berlisensi dan Open Source <br />
 > Semua dataset yang digunakan dalam praktikum ini telah dipilih dengan memperhatikan legalitas dan lisensi penggunaan. Mahasiswa diwajibkan untuk menggunakan dataset yang disediakan atau dataset lain yang berlisensi open source dan legal. Hindari penggunaan data pribadi yang tidak diizinkan atau data yang melanggar hak cipta. <br />
-> - Etika dalam Pengelolaan Data
+> - Etika dalam Pengelolaan Data <br />
 > Mahasiswa diingatkan untuk selalu menjaga etika dalam pengelolaan data, termasuk menghindari penggunaan dataset yang tidak sah, seperti yang diperoleh dari dark web atau sumber ilegal lainnya. Menggunakan dataset ilegal tidak hanya melanggar hukum, tetapi juga bertentangan dengan nilai-nilai moral dan profesionalitas yang kita junjung tinggi. <br />
-> - Tanggung Jawab sebagai Praktisi Data
+> - Tanggung Jawab sebagai Praktisi Data <br />
 > Setiap mahasiswa bertanggung jawab untuk mematuhi peraturan hukum terkait pengelolaan data, termasuk Peraturan Perlindungan Data Pribadi (jika relevan). Sebagai praktisi data di masa depan, diharapkan mahasiswa dapat menjadi teladan dalam mempraktikkan pengolahan data yang bertanggung jawab dan etis. <br />
 > Dengan mengikuti pedoman ini, kita dapat memastikan bahwa proses pembelajaran tidak hanya meningkatkan kompetensi teknis, tetapi juga mendukung pembentukan karakter profesional yang etis dan bertanggung jawab. <br />
 
